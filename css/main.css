@@ -1,0 +1,63 @@
+ .bg{
+   
+    width: 100vh;
+     height: 100%;
+    position: absolute;
+    z-index: -1;
+    background-repeat: no-repeat;
+}
+p{
+    color: darkorange;
+    font-size: 40px;
+    text-align: center;
+}
+.header{
+    background-color: #352D2F;
+}
+.jor{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+
+
+
+body{
+    width: 100vh;
+    color: silver;
+    font-size: 15px;
+}
+ .another{
+    border-right: 2px solid silver; 
+     background-color: #605A5C;
+     height: 70px;
+    font-size: 25px;
+
+}
+.jor{
+    font-size: 30px;
+    font-weight: bold;
+}
+.tel{
+    font-size: 25px;
+}
+.space1{
+    font-size: 30px;
+}
+.sth{
+    display: inline-block;
+    color: darkorange;
+    border: 0.009px solid black;
+    background:darkslategrey;
+    
+  border-radius: 25px;
+  
+    width: 150px;
+    height: 50px;
+font-size: 25px;
+}
+input{
+    background: darkslategrey;
+}
+
